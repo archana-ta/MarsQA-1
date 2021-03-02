@@ -12,7 +12,11 @@ namespace MarsQA_1.SpecflowPages.Pages
 {
     class Language
     {
+<<<<<<< HEAD
         
+=======
+        IWebDriver driver;
+>>>>>>> 444b8f7db6dfb08df4e2f8789b7d496ced5d1916
 
         private static IWebElement addnew => Driver.driver.FindElement(By.XPath("(//div[@class='ui teal button '][contains(.,'Add New')])[1]"));
         private static IWebElement addlanguage => Driver.driver.FindElement(By.XPath("(//input[contains(@type,'text')])[4]"));

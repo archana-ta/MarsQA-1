@@ -160,7 +160,10 @@
     <Compile Include="SpecflowPages\Helpers\Driver.cs" />
     <Compile Include="SpecflowPages\Helpers\ExcelLibHelper.cs" />
     <Compile Include="SpecflowPages\Pages\Language.cs" />
+<<<<<<< HEAD
     <Compile Include="SpecflowPages\Pages\PProfilePage.cs" />
+=======
+>>>>>>> 444b8f7db6dfb08df4e2f8789b7d496ced5d1916
     <Compile Include="SpecflowPages\Pages\Profilepage.cs" />
     <Compile Include="SpecflowPages\Pages\SignIn.cs" />
     <Compile Include="SpecflowPages\Utils\Start.cs" />

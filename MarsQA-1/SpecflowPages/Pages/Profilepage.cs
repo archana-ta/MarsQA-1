@@ -10,7 +10,11 @@ namespace MarsQA_1.SpecflowPages.Pages
 {
     class Profilepage
     {
+<<<<<<< HEAD
         
+=======
+        IWebDriver driver;
+>>>>>>> 444b8f7db6dfb08df4e2f8789b7d496ced5d1916
         private static IWebElement profile => Driver.driver.FindElement(By.XPath("(//a[contains(@class,'item')])[10]"));
         //By profile = By.XPath("(//a[contains(@class,'item')])[10]");
 
